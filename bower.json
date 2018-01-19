@@ -1,0 +1,23 @@
+{
+  "name": "vocallcontact",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "maxwell <maxwell.a@eox.com.br>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "highcharts": "^6.0.3",
+    "font-awesome": "fontawesome#^4.7.0",
+    "moment": "^2.19.2",
+    "chosen": "^1.8.2"
+  }
+}
